@@ -1,3 +1,5 @@
+<img width="1899" height="917" alt="Screenshot 2026-04-25 225050" src="https://github.com/user-attachments/assets/3520a681-9a8f-4e8a-ae29-b206dc3ed242" />
+
 # Knowledge AI — Private Document Assistant
 
 A production-ready RAG (Retrieval-Augmented Generation) system built with Django. Upload PDF or TXT documents and ask natural language questions — answers are grounded strictly in your uploaded files, never from outside knowledge.
