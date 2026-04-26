@@ -1,0 +1,6 @@
+django>=4.2,<5.0
+djangorestframework>=3.14
+django-cors-headers>=4.0
+anthropic>=0.25.0
+pypdf>=4.0.0
+python-dotenv
